@@ -1,5 +1,5 @@
 # Count Digits
-Write a function that counts the number of digits in an integer
+Write a function that counts the number of digits in an integer.
 
 <details>
 <summary>Explanation</summary>
@@ -13,13 +13,9 @@ Write a function that counts the number of digits in an integer
 
 ``` c
 int countDigit(int nVal){
-	int count = 0;
+	int count = 1;
 
-	if (nVal == 0) {
-		count = 1;
-	}
-
-	while(nVal !=0){
+	while(nVal > 9){
 		count++;
 		nVal /= 10;
 	}
