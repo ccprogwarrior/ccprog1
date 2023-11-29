@@ -8,4 +8,12 @@ As mentioned by our CCPROG1 professor, try not to look at the answer key as much
 
 # How to contribute
 
-Create an issue in this repository requesting to be a contributor. Help me build a library of problems to help CCPROG1 takers practice basic programming and logic formulation. 
+Create an issue in this repository requesting to be a contributor. Help me build a library of problems to help CCPROG1 takers practice basic programming and logic formulation.
+
+# CCPROG1 Scope
+- Expressions
+- Assignment Statement
+- Functions
+- Pointers
+- Conditional Statement
+- Iterative Statements
