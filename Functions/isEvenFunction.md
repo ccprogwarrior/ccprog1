@@ -1,4 +1,4 @@
-# Triangle Area
+# isEven Problem
 Write a function that determines if a number is even
 
 
