@@ -15,17 +15,15 @@ Area of triangle is 1/2 base * height
 
 ``` c
 #include<stdio.h>
-float triangleArea(float base, float height){
-	float bh, area;
+int main(){
+	float base, height, bh, area;
+	scanf("%f", &base);
+	scanf("%f", &height);
+
 	bh = base * height;
 	area = bh * 1 / 2;
 	return area;
-}
 
-int main(){
-	float base, height;
-	scanf("%f", &base);
-	scanf("%f", &height);
 	printf("Area %f", triangleArea(base, height));
 	return 0;
 }

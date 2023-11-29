@@ -15,15 +15,10 @@ Area of square = side * side
 
 ``` c
 #include<stdio.h>
-float squareArea(float side){
-	float area;
-	area = side * side;
-	return area;
-}
-
 int main(){
-	float side;
+	float side, area;
 	scanf("%f", &side);
+	area = side * side;
 	printf("Area %f", squareArea(base, height));
 	return 0;
 }
