@@ -18,7 +18,7 @@ int main(){
 	val1 = 1;
 	val2 = 2;
 	val3 = 3;
-	printf("%f", val1+ val2+val3 / 3.0);
+	printf("%f",( val1+ val2+val3 )/ 3.0);
 }
 ```
 
