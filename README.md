@@ -5,3 +5,7 @@ My main objective for this repository is to help CCPROG1 takers have more exerci
 # How to use this repository
 
 As mentioned by our CCPROG1 professor, try not to look at the answer key as much as possible. Solve it on your own unless you are stuck. Try to understand the logic behind it rather than memorizing the code. Based on my experience, it's hard to come up with your solution at first, but trust me, it gets easier as you keep practicing. It's all about persistence and patience to solve a problem. Good luck!
+
+# How to contribute
+
+Create an issue in this repository requesting to be a contributor.
