@@ -1,5 +1,5 @@
 # Square Area
-Write a program that solves for the area of a square given its side length
+Write a program that solves for the area of a square given its side length user input
 
 Area of square = side * side
 
