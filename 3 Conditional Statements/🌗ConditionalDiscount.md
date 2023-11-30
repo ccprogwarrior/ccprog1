@@ -1,4 +1,4 @@
-# Box Border Problem
+# Conditional Discount Problem
 A retail store issued a promo that gives a 30% discount on all items, so long as the final price remains above 100. Write a program that computes for the final price of
 an item.
 
