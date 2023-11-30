@@ -1,6 +1,15 @@
 # Square asterisk
 Print a square of asterisks out from user input
 
+example n = 5
+```
+*****
+*****
+*****
+*****
+*****
+```
+
 <details>
 <summary>Explanation</summary>
 <br>
