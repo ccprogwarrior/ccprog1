@@ -2,9 +2,13 @@
 Write a C program that takes the age of a person as input and prints the ticket price according to the following criteria:
 
 Children (age 0-12): 5 pesos
+
 Teenagers (age 13-17): 8 pesos
+
 Adults (age 18-59): 12 pesos
+
 Seniors (age 60 and above): 6 pesos
+
 Additionally, if a person is a student (age 18-59), they get a 20% discount on the ticket price.
 
 <details>
