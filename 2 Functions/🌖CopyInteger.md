@@ -1,5 +1,5 @@
 # Copy Value Problem
-Write a function that copies the value of an input integer to another integer
+Write a function that copies the value of an input integer to another integer variable.
 
 <details>
 <summary>Explanation</summary>
