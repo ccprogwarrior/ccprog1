@@ -1,5 +1,5 @@
 # Cosine Similarity Problem
-Write a function that computes for the cosine similarity of 2 x float variable to 2 y float variable user inputs
+Write a function that computes for the cosine similarity of 2 a float variable to 2 a float variable user inputs
 
 ![Cosine Similarity Formula](https://miro.medium.com/v2/resize:fit:720/format:webp/1*LfW66-WsYkFqWc4XYJbEJg.png "Cosine Similarity Formula")
 
@@ -18,10 +18,10 @@ Write a function that computes for the cosine similarity of 2 x float variable t
 #include<math.h>
 
 float
-cosineSimilarity(float x1, float x2, float y1, float y2){
+cosineSimilarity(float a1, float a2, float b1, float b2){
 	float numerator, denominator, cosine;
-	numerator = x1*y1+x2*y2;
-	denominator = sqrt(x1*x1 + x2*x2) * sqrt(y1*y1 + y2*y2);
+	numerator = a1*b1+a2*b2;
+	denominator = sqrt(a1*a1 + a2*a2) * sqrt(b1*b1 + b2*b2);
 	cosine = numerator / denominator;
 	return cosine;
 }
