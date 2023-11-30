@@ -1,4 +1,4 @@
-# isEven Problem 🌗
+# isEven Problem
 Write a function that determines if a number is even
 
 
