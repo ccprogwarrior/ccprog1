@@ -1,3 +1,5 @@
+![alt text](ccprog1.jpg)
+
 # Introduction
 
 My main objective for this repository is to help CCPROG1 takers have more exercises for them to practice. I will share some of the exercises, my answers, and answer keys given to us while I was taking CCPROG1 in this repository. I hope this helps you pass CCPROG1.
