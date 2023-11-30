@@ -1,4 +1,4 @@
-# Celsius to Fahrenheit Problem (Difficulty 🌚)
+# Celsius to Fahrenheit Problem
 Write a program that adds integers 1 and 2 stored in int variables a and b.
 
 <details>
