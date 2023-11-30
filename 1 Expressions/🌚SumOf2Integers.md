@@ -1,5 +1,5 @@
 # Celsius to Fahrenheit Problem (Difficulty 🌚)
-Write a program that adds integers 1 and 2 stored in 2 different variables.
+Write a program that adds integers 1 and 2 stored in int variables a and b.
 
 <details>
 <summary>Explanation</summary>
