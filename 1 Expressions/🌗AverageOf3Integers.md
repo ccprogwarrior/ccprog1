@@ -1,5 +1,11 @@
 # Average of 3 Integers
-Write a program that computes the average of 3 integers
+Write a program that computes the average of 3 hardcoded integers
+
+val1=1
+
+val2=2
+
+val3=3
 
 
 <details>
