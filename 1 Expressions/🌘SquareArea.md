@@ -1,4 +1,4 @@
-# Square Area (Difficulty: 🌘)
+# Square Area
 Write a program that solves for the area of a square given its side length
 
 Area of square = side * side
