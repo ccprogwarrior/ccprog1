@@ -2,11 +2,11 @@
 
 # Introduction
 
-My main objective for this repository is to help CCPROG1 takers have more exercises for them to practice. Websites like Hackerrank or TopCoder assume that you already know the basics of programming so it's hard to look for problems online that are suitable for CCPROG1. I will share some of the exercises and my solutions given to us while I was taking CCPROG1. I hope this helps you pass CCPROG1.
+My main objective for this repository is to help CCPROG1 takers have more exercises for them to practice. Websites like Hackerrank or TopCoder assume that you already know the basics of programming, so it's hard to look for problems online that are suitable for CCPROG1. I will share some of the exercises and my solutions given to us while I was taking CCPROG1. I hope this helps you pass CCPROG1. Keep practicing!
 
 # How to use this repository
 
-As mentioned by our CCPROG1 professor, try not to look at the answer key as much as possible. Solve it on your own unless you are **REALLY** stuck. It's hard to come up with your solution at first, but it gets easier as you keep practicing. Try to understand the logic behind it rather than memorizing the code. It's all about persistence and patience to solve a problem. Good luck!
+As mentioned by our CCPROG1 professor, try not to look at the answer key as much as possible. Solve it on your own unless you are **REALLY** stuck. It's hard to come up with your solution at first, but it gets easier as you keep practicing. Try to understand the logic behind it rather than memorizing the code. It's all about persistence and patience to solve a problem.
 
 I rated each of the problems in terms of (easiest) 🌚🌘🌗🌖🌓🌕 (hardest), so you will know what type of problem you're dealing with. I also sorted the problems according to topics. Click the folders in the repository to see them.
 
