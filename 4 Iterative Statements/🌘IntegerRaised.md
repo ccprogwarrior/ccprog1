@@ -1,5 +1,5 @@
-# Integer to Raised Problem
-Write a function that computes for the raised value of an integer
+# Integer Raised To Problem
+Write a function that computes the raised value of an integer
 
 
 <details>
