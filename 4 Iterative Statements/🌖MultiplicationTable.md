@@ -2,7 +2,7 @@
 Display an n x n multiplication table.
 
 For example, if n = 5:
-
+```
 1  2  3  4  5
 
 2  4  6  8 10
@@ -12,6 +12,7 @@ For example, if n = 5:
 4  8 12 16 20
 
 5 10 15 20 25
+```
 
 Hint: You can use %2d in your printf functions to force all number displays to be 2 characters long (C will pad a space if the number is less than two digits)
 
