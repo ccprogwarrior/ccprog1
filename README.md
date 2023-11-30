@@ -6,7 +6,7 @@ My main objective for this repository is to help CCPROG1 takers have more exerci
 
 # How to use this repository
 
-As mentioned by our CCPROG1 professor, try not to look at the answer key as much as possible. Solve it on your own unless you are **REALLY** stuck. Try to understand the logic behind it rather than memorizing the code. Based on my experience, it's hard to come up with your solution at first, but trust me, it gets easier as you keep practicing. It's all about persistence and patience to solve a problem. Good luck!
+As mentioned by our CCPROG1 professor, try not to look at the answer key as much as possible. Solve it on your own unless you are **REALLY** stuck. It's hard to come up with your solution at first but trust me, it gets easier as you keep practicing. Try to understand the logic behind it rather than memorizing the code. It's all about persistence and patience to solve a problem. Good luck!
 
 I rated each of the problems in terms of (easiest) 🌚🌘🌗🌖🌓🌕 (hardest), so you will know what type of problem you're dealing with. I also sorted the problems according to topics. Click the folders in the repository to see them.
 
