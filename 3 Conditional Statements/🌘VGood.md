@@ -1,5 +1,5 @@
 # VGood Problem
-Write a program that will display ‘V.Good!’ and ‘Keep it up!’ if the grade of a student is 4.0.
+Write a program that will display ‘V.Good!’ and ‘Keep it up!’ if the grade uof a student is 4.0.
 
 <details>
 <summary>Explanation</summary>
