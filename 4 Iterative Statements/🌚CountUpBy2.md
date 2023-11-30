@@ -2,18 +2,14 @@
 Write a program that counts from 0 to 10 by 2
 
 output:
-
+```
 0
-
 2
-
 4
-
 6
-
 8
-
 10
+```
 <details>
 <summary>Explanation</summary>
 <br>
