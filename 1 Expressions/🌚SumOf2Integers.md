@@ -1,5 +1,5 @@
 # Celsius to Fahrenheit Problem (Difficulty 🌚)
-Write a program that sums 2 integers.
+Write a program that adds integers 1 and 2.
 
 <details>
 <summary>Explanation</summary>
