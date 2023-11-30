@@ -1,5 +1,5 @@
-# isEven Problem
-Write a function that determines if a number is even
+# Swap Value Problem
+Write a function that adds 2 integers.
 
 
 <details>
@@ -13,9 +13,9 @@ Write a function that determines if a number is even
 <br>
 
 ``` c
-int 
-isEven(int val){
-	return val % 2 ==0;
+void 
+sum(int val1, int val2){
+	return val1+val2;
 }
 ```
 
