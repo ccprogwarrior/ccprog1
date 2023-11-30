@@ -1,4 +1,4 @@
-# Swap Value Problem 🌖
+# Swap Value Problem
 Write a function that swaps the values of 2 integers using pointers
 
 
