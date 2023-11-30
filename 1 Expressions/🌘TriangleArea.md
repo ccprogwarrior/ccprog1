@@ -22,7 +22,7 @@ int main(){
 	scanf("%f", &height);
 	bh = base * height;
 	area = bh * 1 / 2;
-	printf("Area %f", triangleArea(base, height));
+	printf("Area %f", area);
 	return 0;
 }
 ```
