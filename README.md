@@ -2,7 +2,7 @@
 
 # Introduction
 
-My main objective for this repository is to help CCPROG1 takers have more exercises for them to practice. I will share some of the exercises, my answers, and answer keys given to us while I was taking CCPROG1 in this repository. I hope this helps you pass CCPROG1.
+My main objective for this repository is to help CCPROG1 takers have more exercises for them to practice. Websites like Hackerrank or TopCoder assume that you already know the basics of programming so it's hard to look for problems online that are suitable for CCPROG1. I will share some of the exercises and my solutions given to us while I was taking CCPROG1. I hope this helps you pass CCPROG1.
 
 # How to use this repository
 
@@ -12,7 +12,7 @@ I rated each of the problems in terms of (easiest) 🌚🌘🌗🌖🌓🌕 (har
 
 # How to contribute
 
-Create an issue in this repository requesting to be a contributor. Help me build a library of problems to help CCPROG1 takers practice basic programming and logic formulation.
+Create an issue in this repository requesting to be a contributor, and I will add you to the list. Help me build a library of problems to help CCPROG1 takers practice basic programming and logic formulation.
 
 # CCPROG1 Scope
 - Expressions
