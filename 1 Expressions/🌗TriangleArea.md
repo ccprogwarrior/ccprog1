@@ -1,8 +1,8 @@
-# Triangle Area (Difficulty: 🌘)
+# Triangle Area
 
 Write a program that solves for the area of a triangle given its base and height.
 
-Area of triangle is 1/2 base * height
+Area of triangle is 1/2 * base * height
 
 <details>
 <summary>Explanation</summary>
