@@ -19,7 +19,7 @@ int main(){
 	float side, area;
 	scanf("%f", &side);
 	area = side * side;
-	printf("Area %f", squareArea(base, height));
+	printf("Area %f", area);
 	return 0;
 }
 ```

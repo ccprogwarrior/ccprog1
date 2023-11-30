@@ -1,5 +1,5 @@
 # Average of 3 Integers
-Write program that computes the average of 3 integers
+Write a program that computes the average of 3 integers
 
 
 <details>
@@ -18,7 +18,7 @@ int main(){
 	val1 = 1;
 	val2 = 2;
 	val3 = 3;
-	printf("%f", val1+ val2+val3 / 3.0);
+	printf("%f",( val1+ val2+val3 )/ 3.0);
 }
 ```
 
