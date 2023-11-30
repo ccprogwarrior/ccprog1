@@ -1,5 +1,5 @@
 # Cosine Similarity Problem
-Write a function that computes for the cosine similarity of 2 a float variable to 2 a float variable user inputs
+Write a function that computes for the cosine similarity of 2 a float variable to 2 b float variable user inputs
 
 ![Cosine Similarity Formula](https://miro.medium.com/v2/resize:fit:720/format:webp/1*LfW66-WsYkFqWc4XYJbEJg.png "Cosine Similarity Formula")
 
