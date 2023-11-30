@@ -1,5 +1,4 @@
-# Triangle Area
-Difficulty: 🌘
+# Triangle Area (Difficulty: 🌘)
 
 Write a program that solves for the area of a triangle given its base and height.
 
