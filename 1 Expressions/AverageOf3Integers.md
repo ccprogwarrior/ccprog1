@@ -1,4 +1,4 @@
-# Average of 3 Integers
+# Average of 3 Integers (Difficulty: 🌘)
 Write a program that computes the average of 3 integers
 
 

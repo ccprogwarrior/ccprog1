@@ -1,4 +1,4 @@
-# Celsius to Fahrenheit Problem
+# Celsius to Fahrenheit Problem (Difficulty: 🌗)
 Write a program that converts a temperature from degrees Celsius to degrees Fahrenheit.
 
 Note that C = 5/9 (F - 32)
