@@ -2,14 +2,14 @@
 Display the borders of an n x n box of asterisks.
 
 For example, if n = 6, display:
-
+```
 ******
 *    *
 *    *
 *    *
 *    *
 ******
-
+```
 <details>
 <summary>Explanation</summary>
 <br>
