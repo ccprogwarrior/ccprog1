@@ -1,6 +1,6 @@
 # Triangle Area
 
-Write a program that solves for the area of a triangle given its base and height.
+Write a program that solves for the area of a triangle given its base and height user input
 
 Area of triangle is 1/2 * base * height
 
