@@ -2,7 +2,7 @@
 
 # Introduction
 
-My main objective for this repository is to help CCPROG1 takers have more exercises for them to practice. Websites like Hackerrank or TopCoder assume that you already know the basics of programming, so it's hard to look for problems online that are suitable for CCPROG1. I will share some of the exercises and my solutions given to us while I was taking CCPROG1. I hope this helps you pass CCPROG1. Keep practicing!
+My main objective for this repository is to help CCPROG1 takers have more exercises for them to practice. Websites like Hackerrank or TopCoder assume that you already know the basics of programming, so it's hard to look for problems online that are suitable for CCPROG1. I will share some of the exercises given to us and my solutions when I was taking CCPROG1. I hope this helps you pass. Keep practicing!
 
 # How to use this repository
 
