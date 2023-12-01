@@ -1,4 +1,4 @@
-# Convert to binary
+# Reverse 3 Digits
 Write a program that reverses the digits of a 3 digit integer
 
 <details>
