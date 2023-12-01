@@ -19,6 +19,7 @@ If val = 123 output:
 <br>
 
 ``` c
+#include<stdio.h>
 int main(){
 	int n = 123;
 	printf("%d\n", n / 100);

@@ -17,6 +17,7 @@ sum = 10
 <br>
 
 ``` c
+#include<stdio.h>
 int main(){
 	int n, first, second, third, fourth, sum;
 	n = 1234;

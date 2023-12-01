@@ -12,6 +12,7 @@ Write a function that copies the value of an input integer to another integer va
 <br>
 
 ``` c
+#include<stdio.h>
 void 
 copy(int val1, int * val2){
 	*val2 = val1;
