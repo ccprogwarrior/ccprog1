@@ -45,3 +45,34 @@ int main(){
 ```
 
 </details>
+
+
+<details>
+<summary>Answer 2</summary>
+<br>
+
+``` c
+#include<stdio.h>
+int 
+main(){
+int a, binary;
+a = 99;
+binary = a / 64 * 10;
+a = a % 64;
+binary = (binary + a / 32) * 10;
+a = a %32;
+binary = (binary + a / 16) * 10;
+a = a%16;
+binary = (binary + a / 8) * 10;
+a = a % 8;
+binary = (binary + a / 4) * 10;
+a = a%4;
+binary = (binary + a / 2) * 10;
+a = a %2;
+binary = binary + a;
+printf("%d", binary);
+return 0;
+}
+```
+
+</details>
