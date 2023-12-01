@@ -1,7 +1,7 @@
 # Circle Area
 Write a program that solves for the area of a circle given its radius
 
-Area of circle = 3.14*r*r
+Area of circle = 3.14 * r * r
 
 <details>
 <summary>Explanation</summary>
