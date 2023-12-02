@@ -43,7 +43,7 @@ int main(){
 	return 0;
 }
 ```
-
+[Run it on Replit](https://replit.com/@ccproglearner/ccprog1replit#expressions-Converttobinary1.c)
 </details>
 
 
@@ -74,5 +74,5 @@ printf("%d", binary);
 return 0;
 }
 ```
-
+[Run it on Replit](https://replit.com/@ccproglearner/ccprog1replit#expressions-Converttobinary2.c)
 </details>
