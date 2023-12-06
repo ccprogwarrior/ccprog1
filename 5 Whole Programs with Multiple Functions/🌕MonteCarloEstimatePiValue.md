@@ -23,11 +23,13 @@ https://medium.com/the-modern-scientist/estimating-pi-using-monte-carlo-methods-
 #include<stdlib.h>
 #include<math.h>
 
-int isInCricle(double x, double y, double radius){
+int
+isInCricle(double x, double y, double radius){
 	return sqrt(pow(x,2) + pow(y,2)) <= radius;
 }
 
-double getEstPiVal(int nTries){
+double
+getEstPiVal(int nTries){
 	int i, nCirclePtCount;
 	double x, y, dEstPiVal;
 	nCirclePtCount = 0;
@@ -43,7 +45,8 @@ double getEstPiVal(int nTries){
 	return dEstPiVal;
 }
 
-int main(){
+int
+main(){
 	srand(10);
 	printf("Estimated value of pi: %f", getEstPiVal(1000000));
 	return 0;

@@ -7,7 +7,8 @@
 
 ``` c
 #include<stdio.h>
-int gcd(int a, int b){
+int
+gcd(int a, int b){
 	int i;
 	if(a > b){
 		i = a;
@@ -20,7 +21,8 @@ int gcd(int a, int b){
 	return i;
 }
 
-void getXandY(int a, int b, int c, int* x, int* y){
+void
+getXandY(int a, int b, int c, int* x, int* y){
 	*x = 1;
 	*y = -1;
 	while(a * (*x) < c){
@@ -35,7 +37,9 @@ void getXandY(int a, int b, int c, int* x, int* y){
 		}
 	}
 }
-int main(){
+
+int
+main(){
 	int a, b, c, x, y;
 		a = 6;
 		b = 9;

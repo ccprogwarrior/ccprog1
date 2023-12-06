@@ -24,22 +24,22 @@ Example
 ``` c
 int 
 getgcd(int a, int b){ //copied from greatest common denominator problem
-int i;
-i = (a < b)? a : b;
+	int i;
+	i = (a < b)? a : b;
 
-while(a % i != 0 || b%i!= 0) i--;
-return i;
+	while(a % i != 0 || b%i!= 0) i--;
+	return i;
 }
 
 
 void
 lowestterm(int * num, int * den){
-int gcd;
-while(getgcd(*num, *den) != 1){
-	gcd = getgcd(*num, *den);
-	*num /= gcd;
-	*den /= gcd;
-}
+	int gcd;
+	while(getgcd(*num, *den) != 1){
+		gcd = getgcd(*num, *den);
+		*num /= gcd;
+		*den /= gcd;
+	}
 
 }
 ```
